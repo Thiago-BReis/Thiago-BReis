@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**thiago-breis/thiago-breis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Formado Em Getão em Tecnologia da Informação.
+- 👨‍💻 🎓 Estudando Front End.
+- 🧑‍💼 Hoje a Procura de Estágio na área de Front End.
+- 📧 Contate-me no E-mail: aprendizthiago@hotmail.com.
+- 😃 Pronouns: ele/dele.
+##
+<div align="center">
+  <a href="https://github.com/thiago-breeis">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-breis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-breis&show_icons=true&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
