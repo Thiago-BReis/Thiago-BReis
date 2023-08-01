@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎓 Formado Em Getão em Tecnologia da Informação.
+- 🎓 Graduado Em Getão em Tecnologia da Informação.
 - 👨‍💻 🎓 Estudante Full Stack.
 - 🧑‍💼 Hoje a Procura de Estágio na área de Front End.
 - 📧 Contate-me no E-mail: aprendizthiago@hotmail.com.
