@@ -3,8 +3,8 @@
 - 🎓 Graduado Em Getão em Tecnologia da Informação.
 - 👨‍💻 🎓 Estudante Full Stack.
 - 🧑‍💼 Hoje a Procura de Estágio na área de Front End.
-- 📧 Contate-me no E-mail: aprendizthiago@hotmail.com.
-- 😃 Pronouns: ele/dele.
+- 📧 Contate-me no E-mail: thiagobr97@hotmail.com.
+
 
 <div align="center">
   <a href="https://github.com/thiago-breis">
